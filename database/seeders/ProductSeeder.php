@@ -14,14 +14,5 @@ class ProductSeeder extends Seeder
         $jersey = Category::where('slug', 'skateboard')->first();
         $sepatu = Category::where('slug', 'sepatu')->first();
         $jaket  = Category::where('slug', 'jaket')->first();
-
-        // 🔴 Skateboard
-        $p1 = Product::create([
-            'name' => 'Deck baker skateboard',
-            'slug' => 'deck',
-            'category_id' => $deck->id,
-            'description' => 'Deck baker size 8,25.',
-            'image' => 'public/images/images.jpg:',
-]);
     }
 }

@@ -39,14 +39,14 @@
             Rp 550.000
         </td>
         <td>
-            <img src="https://lzd-img-global.slatic.net/g/p/1af295e1326ba603e52a6abac8d2d663.jpg_720x720q80.jpg" width="200"><br>
+            <img src="https://shopee.co.id/Subs-Skateboard-Deck-Pro-Model-RH-8.0-8.25-i.159410276.43806619473?extraParams=%7B%22display_model_id%22%3A260559621652%2C%22model_selection_logic%22%3A3%7D&sp_atk=690fb13c-96f2-463b-86da-c0f3d92004ae&xptdk=690fb13c-96f2-463b-86da-c0f3d92004ae" width="200"><br>
             <b>Asbak Stainless</b><br>
-            Rp 20.000
+            Rp 560.000
         </td>
         <td>
-            <img src="https://th.bing.com/th/id/R.73bf85a150c9791d931775be05a52d53?rik=qoIoXqDelx%2f8fg&riu=http%3a%2f%2fashtrayplanet.com%2fcdn%2fshop%2fproducts%2fashtray-large-stainless-steel-thick-ash-tray-metal-3_1200x1200.jpg%3fv%3d1645358334&ehk=InkaUo4uv6EIbkwOx9xY72ps%2fDp36pHJ549qGhP2VYM%3d&risl=&pid=ImgRaw&r=0" width="200"><br>
-            <b>Ashtray Square</b><br>
-            Rp 45.000
+            <img src="https://down-id.img.susercontent.com/file/id-11134258-7ra0h-mbese5hzr5cp90" width="200"><br>
+            <b>Deck Scratch skateboard</b><br>
+            Rp 635.000
         </td>
     </tr>
 </table>
