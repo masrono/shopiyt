@@ -21,7 +21,7 @@ class ProductSeeder extends Seeder
             'slug' => 'deck',
             'category_id' => $deck->id,
             'description' => 'Deck baker size 8,25.',
-            'image' => 'C:\laravel2\shopiyt\public\images\images.jpg',
+            'image' => 'public/images/images.jpg:',
 ]);
     }
 }
