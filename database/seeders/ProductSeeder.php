@@ -21,7 +21,7 @@ class ProductSeeder extends Seeder
             'slug' => 'mu-home-jersey-2024',
             'category_id' => $jersey->id,
             'description' => 'Deck baker size 8,25.',
-            'image' => 'images/products/p1.webp',
+            'image' => 'images/products/images.jpg',
 ]);
 
         ProductVariant::create([
