@@ -27,14 +27,14 @@
         </h2>
         <!-- PRODUK TERBARU -->
 <table width="100%" cellpadding="10">
-    <tr align="center">
+    <tr allign="center">
         <td>
             <img src="public/images/p1.webp" width="200"><br>
             <b>Deck BAKER 8,25</b><br>
             Rp 750.000
         </td>
         <td>
-            <img src="public/images/images.jpg"" width="200"><br>
+            <img src="public/images/images.jpg" width="200"><br>
             <b>Deck STCL X LAWLESS 8,0</b><br>
             Rp 550.000
         </td>
