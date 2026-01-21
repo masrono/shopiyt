@@ -25,6 +25,34 @@
         <h2 class="text-2xl font-bold text-gray-800">
             Produk Terbaru
         </h2>
+        <!-- PRODUK TERBARU -->
+<h2>Produk Terbaru</h2>
+<p>Temukan produk terbaik sesuai kebutuhanmu</p>
+
+<table width="100%" cellpadding="10">
+    <tr align="center">
+        <td>
+            <img src="https://cf.shopee.co.id/file/7b24004b49e5ccc927f61c1e8b60a5c0" width="200"><br>
+            <b>Asbak Kaca</b><br>
+            Rp 15.500
+        </td>
+        <td>
+            <img src="https://lzd-img-global.slatic.net/g/ff/kf/S9452a72d70ce4376a77458b8faa31b29O.jpg_720x720q80.jpg_.webp"" width="200"><br>
+            <b>Asbak Putar Portable</b><br>
+            Rp 76.000
+        </td>
+        <td>
+            <img src="https://lzd-img-global.slatic.net/g/p/1af295e1326ba603e52a6abac8d2d663.jpg_720x720q80.jpg" width="200"><br>
+            <b>Asbak Stainless</b><br>
+            Rp 20.000
+        </td>
+        <td>
+            <img src="https://th.bing.com/th/id/R.73bf85a150c9791d931775be05a52d53?rik=qoIoXqDelx%2f8fg&riu=http%3a%2f%2fashtrayplanet.com%2fcdn%2fshop%2fproducts%2fashtray-large-stainless-steel-thick-ash-tray-metal-3_1200x1200.jpg%3fv%3d1645358334&ehk=InkaUo4uv6EIbkwOx9xY72ps%2fDp36pHJ549qGhP2VYM%3d&risl=&pid=ImgRaw&r=0" width="200"><br>
+            <b>Ashtray Square</b><br>
+            Rp 45.000
+        </td>
+    </tr>
+</table>
 
         <form method="GET">
             <select
