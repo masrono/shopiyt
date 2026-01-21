@@ -4,7 +4,7 @@
 
             {{-- LOGO --}}
             <a href="{{ url('/') }}" class="flex items-center gap-3">
-               <img src="/images/mu-logo.png" class="h-10">
+               <img src="/images/logo.jpg" class="h-10">
 
                 <span class="text-lg font-extrabold tracking-wide text-white hidden sm:block">
                     WEER SKATE STORE
