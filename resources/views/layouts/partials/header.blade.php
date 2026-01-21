@@ -14,22 +14,22 @@
             {{-- NAVIGATION (DESKTOP) --}}
             <nav class="hidden md:flex items-center gap-8">
                 <a href="{{ url('/') }}"
-                   class="font-medium transition hover:text-red-500">
+                   class="font-medium transition hover:text-white-500">
                     Home
                 </a>
                 <a href="#"
-                   class="font-medium transition hover:text-red-500">
+                   class="font-medium transition hover:text-white-500">
                     Skateboard
                 </a>
                 <a href="#"
-                   class="font-medium transition hover:text-red-500">
+                   class="font-medium transition hover:text-white-500">
                     Apparel
                 </a>
                 <a href="#"
-                   class="font-medium transition hover:text-red-500">
+                   class="font-medium transition hover:text-white-500">
                     Shoes
                 <a href="#"
-                   class="font-medium transition hover:text-red-500">
+                   class="font-medium transition hover:text-white-500">
                     Accessories
                 </a>
             </nav>
