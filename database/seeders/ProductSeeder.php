@@ -11,55 +11,17 @@ class ProductSeeder extends Seeder
 {
     public function run(): void
     {
-        $jersey = Category::where('slug', 'jersey')->first();
+        $jersey = Category::where('slug', 'skateboard')->first();
         $sepatu = Category::where('slug', 'sepatu')->first();
         $jaket  = Category::where('slug', 'jaket')->first();
 
         // 🔴 Skateboard
         $p1 = Product::create([
             'name' => 'Deck baker skateboard',
-            'slug' => 'mu-home-jersey-2024',
-            'category_id' => $jersey->id,
+            'slug' => 'deck',
+            'category_id' => $deck->id,
             'description' => 'Deck baker size 8,25.',
             'image' => 'images/products/images.jpg',
 ]);
-
-        ProductVariant::create([
-            'product_id' => $p1->id,
-            'price' => 1299000,
-            'stock' => 50,
-        ]);
-
-        // 👟 Sepatu
-        $p2 = Product::create([
-    'name' => 'Adidas Predator Manchester United',
-    'slug' => 'adidas-predator-mu',
-    'category_id' => $sepatu->id,
-    'description' => 'Sepatu bola Adidas Predator edisi Manchester United.',
-    'image' => 'images/products/mu-shoes.jpg',
-]);
-
-
-        ProductVariant::create([
-            'product_id' => $p2->id,
-            'price' => 2499000,
-            'stock' => 20,
-        ]);
-
-        // 🧥 Jaket
-       $p3 = Product::create([
-    'name' => 'MU Anthem Jacket',
-    'slug' => 'mu-anthem-jacket',
-    'category_id' => $jaket->id,
-    'description' => 'Jaket anthem resmi Manchester United.',
-    'image' => 'images/products/mu-jacket.jpg',
-]);
-
-
-        ProductVariant::create([
-            'product_id' => $p3->id,
-            'price' => 1799000,
-            'stock' => 30,
-        ]);
     }
 }
