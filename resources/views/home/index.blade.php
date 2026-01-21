@@ -26,20 +26,17 @@
             Produk Terbaru
         </h2>
         <!-- PRODUK TERBARU -->
-<h2>Produk Terbaru</h2>
-<p>Temukan produk terbaik sesuai kebutuhanmu</p>
-
 <table width="100%" cellpadding="10">
     <tr align="center">
         <td>
-            <img src="https://cf.shopee.co.id/file/7b24004b49e5ccc927f61c1e8b60a5c0" width="200"><br>
-            <b>Asbak Kaca</b><br>
-            Rp 15.500
+            <img src="public/images/p1.webp" width="200"><br>
+            <b>Deck BAKER 8,25</b><br>
+            Rp 750.000
         </td>
         <td>
-            <img src="https://lzd-img-global.slatic.net/g/ff/kf/S9452a72d70ce4376a77458b8faa31b29O.jpg_720x720q80.jpg_.webp"" width="200"><br>
-            <b>Asbak Putar Portable</b><br>
-            Rp 76.000
+            <img src="public/images/images.jpg"" width="200"><br>
+            <b>Deck STCL X LAWLESS 8,0</b><br>
+            Rp 550.000
         </td>
         <td>
             <img src="https://lzd-img-global.slatic.net/g/p/1af295e1326ba603e52a6abac8d2d663.jpg_720x720q80.jpg" width="200"><br>
