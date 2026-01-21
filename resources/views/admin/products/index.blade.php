@@ -18,6 +18,7 @@
     <table class="w-full border">
         <thead class="bg-gray-200">
         <tr>
+            <th><img src="" alt=""></th>
             <th class="p-2">Nama</th>
             <th>Kategori</th>
             <th>Variant</th>
