@@ -4,7 +4,7 @@
 <div class="max-w-7xl mx-auto px-4 py-10">
 
     {{-- ================= HERO SECTION ================= --}}
-    <div class="relative bg-gradient-to-r from-black-700 to-black rounded-2xl p-10 mb-12 text-white overflow-hidden">
+    <div class="relative bg-gradient-to-r from-blue-700 to-black rounded-2xl p-10 mb-12 text-white overflow-hidden">
         <div class="relative z-10">
             <h1 class="text-4xl md:text-5xl font-extrabold tracking-wide">
                 WEER SKATE STORE
