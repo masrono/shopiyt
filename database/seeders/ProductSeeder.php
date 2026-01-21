@@ -15,12 +15,12 @@ class ProductSeeder extends Seeder
         $sepatu = Category::where('slug', 'sepatu')->first();
         $jaket  = Category::where('slug', 'jaket')->first();
 
-        // 🔴 Jersey
+        // 🔴 Skateboard
         $p1 = Product::create([
-            'name' => 'Manchester United Home Jersey 2024',
+            'name' => 'Deck baker skateboard',
             'slug' => 'mu-home-jersey-2024',
             'category_id' => $jersey->id,
-            'description' => 'Jersey kandang resmi Manchester United musim 2024.',
+            'description' => 'Deck baker size 8,25.',
             'image' => 'images/products/p1.webp',
 ]);
 
