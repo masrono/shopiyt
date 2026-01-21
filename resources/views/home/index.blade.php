@@ -7,17 +7,16 @@
     <div class="relative bg-gradient-to-r from-red-700 to-black rounded-2xl p-10 mb-12 text-white overflow-hidden">
         <div class="relative z-10">
             <h1 class="text-4xl md:text-5xl font-extrabold tracking-wide">
-                MANCHESTER UNITED STORE
+                WEER SKATE STORE
             </h1>
             <p class="mt-3 text-lg text-red-100 max-w-xl">
-                Official merchandise & apparel Manchester United. Biasakan pakai KING.
-                Glory Glory Man United!!!
+                Skateshop Jakarta Barat
             </p>
         </div>
 
         {{-- Decorative --}}
         <div class="absolute right-0 top-0 opacity-10 text-[180px] font-black select-none">
-            MU
+            SK8
         </div>
     </div>
 

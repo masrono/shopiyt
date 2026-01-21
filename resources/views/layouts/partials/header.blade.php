@@ -7,7 +7,7 @@
                <img src="/images/mu-logo.png" class="h-10">
 
                 <span class="text-lg font-extrabold tracking-wide text-white hidden sm:block">
-                    MAN UNITED STORE
+                    WEER SKATE STORE
                 </span>
             </a>
 
@@ -19,12 +19,15 @@
                 </a>
                 <a href="#"
                    class="font-medium transition hover:text-red-500">
-                    Jersey
+                    Skateboard
                 </a>
                 <a href="#"
                    class="font-medium transition hover:text-red-500">
                     Apparel
                 </a>
+                <a href="#"
+                   class="font-medium transition hover:text-red-500">
+                    Shoes
                 <a href="#"
                    class="font-medium transition hover:text-red-500">
                     Accessories
@@ -91,12 +94,15 @@
             </a>
             <a href="#"
                class="block py-2 text-white hover:text-red-500">
-                Jersey
+                Skateboard
             </a>
             <a href="#"
                class="block py-2 text-white hover:text-red-500">
                 Apparel
             </a>
+            <a href="#"
+               class="block py-2 text-white hover:text-red-500">
+                Shoes
             <a href="#"
                class="block py-2 text-white hover:text-red-500">
                 Accessories
